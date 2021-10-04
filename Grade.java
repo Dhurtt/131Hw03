@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 public class Grade {
 
@@ -14,4 +14,4 @@ public class Grade
   private string key
   private string 
 }
->>>>>>> branch 'main' of https://github.com/Dhurtt/131Hw03.git
+
