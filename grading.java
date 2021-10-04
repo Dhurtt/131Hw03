@@ -1,4 +1,12 @@
 public class grading
 {
-	//DNe
+	
 }
+//Grade
+//grading strategy
+//filter
+//WeightedTotalStrat
+//dropfilter
+//totalstrategy
+//missing
+//sizeexception
