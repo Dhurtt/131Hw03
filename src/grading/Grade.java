@@ -5,7 +5,7 @@ import grading.SizeException;
 
 public class Grade
 {
-  private string key
+  private String key
   private double value
     
    public Grade(String key)
