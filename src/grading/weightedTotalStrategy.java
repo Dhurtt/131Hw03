@@ -1,13 +1,12 @@
 package grading;
 
 import java.util.Map;
-import java.lang.String;
-import java.lang.Double;
 
-public class weightedTotalStrategy
+class weightedTotalStrategy implements GradingStrategy
 {
-	Map<String, Double> weights = new Hashmap<String, Double>();
-	public weightedTotalStrategy()
+	private Map<String, Double> weight;
+	
+	public weightedTotalStrategy(<String, Double> weight, )
 	{
 		
 	}
