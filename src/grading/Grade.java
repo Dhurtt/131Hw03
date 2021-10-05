@@ -3,7 +3,7 @@ package grading;
 import java.util.List;
 import grading.SizeException;
 
-public class Grade
+public class Grade 
 {
   private String key
   private double value
