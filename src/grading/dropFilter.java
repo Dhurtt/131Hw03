@@ -12,4 +12,7 @@ public class DropFilter
 	}
 	
 	public boolean DropFilter ( shouldDropLowest, shouldDropHighest)
+	{
+		
+	}
 }
