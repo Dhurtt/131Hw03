@@ -6,7 +6,7 @@ public final class missing
 	
 	public double doubleValue(double number)
 	{
-		return number * 2;
+		
 	}
 	public double doubleValue(double number, double missingValue)
 	{
