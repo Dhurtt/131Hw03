@@ -1,8 +1,8 @@
 package grading;
 
-public class missing
+public final class missing
 {
-	private final double DEFAULT_MISSING_VALUE = 0;
+	private static double DEFAULT_MISSING_VALUE = 0;
 	
 	public double doubleValue(double number)
 	{
