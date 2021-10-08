@@ -1,17 +1,17 @@
 package grading;
 
-public class DropFilter
+public class dropFilter
 
 {
-	private boolean shouldDropLowest
-	private boolean shouldDropHighest
+	private boolean shouldDropLowest;
+	private boolean shouldDropHighest;
 	
 	public DropFilter()
 	{
 		
 	}
 	
-	public boolean DropFilter ( shouldDropLowest, shouldDropHighest)
+	public boolean DropFilter (boolean shouldDropLowest, boolean shouldDropHighest)
 	{
 		
 	}
