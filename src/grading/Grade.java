@@ -1,6 +1,6 @@
 package grading;
 
-public class Grade 
+public class Grade implements Comparable
 {
   private String key = " ";
   private double value = 0;
