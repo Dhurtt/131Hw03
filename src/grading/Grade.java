@@ -1,16 +1,13 @@
 package grading;
 
-import java.util.List;
-import grading.SizeException;
-
 public class Grade 
 {
-  private String key
-  private double value
+  private String key = " ";
+  private double value = 0;
     
    public Grade(String key)
    {
-	  
+	   
    }
   
    public Grade (String key, double value)
