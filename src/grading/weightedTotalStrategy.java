@@ -1,14 +1,23 @@
 package grading;
 
+import java.util.List;
 import java.util.Map;
 
-class weightedTotalStrategy implements GradingStrategy
+class weightedTotalStrategy implements gradingStrategy
 {
-	private Map<String, Double> weight;
+	private Map<String, Double> weights;
 	
-	public weightedTotalStrategy(<String, Double> weight)
-	{
-		
+	public weightedTotalStrategy() {
 	}
 	
-}
+	public weightedTotalStrategy(Map<String, Double> weights) {
+	}
+
+	
+
+
+	@Override
+	public List<Grade> calculate(String key, List<Grade> grades) throws SizeException {
+		// TODO Auto-generated method stub
+		return null;
+	}}
