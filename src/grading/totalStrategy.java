@@ -8,4 +8,5 @@ public class totalStrategy extends weightedTotalStrategy
   {
     
   }
- }
+}
+ 
